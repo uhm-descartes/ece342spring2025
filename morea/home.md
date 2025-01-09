@@ -5,31 +5,28 @@ morea_type: home
 published: true
 ---
 
-# Welcome to ECE 693B Fall 2024
+# Welcome to ECE 342 Spring 2025
 
-In ECE 693B, we will gain solid theoretical understanding 📝 of reinforcement learning (RL) and get hands-on experiences 💻 of applying RL to research projects.
+In ECE 342, we will develop intuitions 💡 on probability and statistics, learn to formulate 📝 real-world scenarios as probability problems, and get your hands dirty with computer simulations 💻.
 
 ## Pedagogy
 
-ECE 693B is structured as a sequential series of [modules](/ece693bspring2025/modules/), each taking approximately one to two weeks to complete. Each module has the following structure:
+ECE 342 is structured as a sequential series of [modules](/ece342spring2025/modules/), each taking approximately one to two weeks to complete. Each module has the following structure:
 
-  * [Learning outcomes](/ece693bspring2025/outcomes/), describing the major goals for the module.
-  * [Readings and other online resources](/ece693bspring2025/readings/), providing background material.
-  * [Experiential learning activities](/ece693bspring2025/experiences/), providing a structured set of challenges enabling you to acquire mastery of material.
-  * [Assessments](/ece693bspring2025/assessments/), which help you determine if you have acquired mastery of the material.
+  * [Learning outcomes](/ece342spring2025/outcomes/), describing the major goals for the module.
+  * [Readings and other online resources](/ece342spring2025/readings/), providing background material.
+  * [Experiential learning activities](/ece342spring2025/experiences/), providing a structured set of challenges enabling you to acquire mastery of material.
+  * [Assessments](/ece342spring2025/assessments/), which help you determine if you have acquired mastery of the material.
 
 ## Useful Resources
 
   * 📖 Textbooks
-    - [Circuit Analysis and Design by Ulaby, Maharbiz, and Furse](https://cad2e.eecs.umich.edu/)
-    - [Signals and Systems: Theory and Applications by Ulaby and Yagle](https://services.publishing.umich.edu/Books/S/Signals-and-Systems2)
-  * 🗓 [Course calendar](https://docs.google.com/spreadsheets/d/1l_KBbUvDNDh2SBm6CLU5U4pUn4tSIV_NaeRs6vQuZcY/edit?gid=0#gid=0).
-  * 🤖 [Discord server](https://discord.gg/DVNZkCbWm9).
-  * 📜 [Anonymous feedback form](https://forms.gle/En8KrJWcjZWLv8S68).
+    - [Introduction to Probability by Dimitri P. Bertsekas and John N. Tsitsiklis](https://www.mit.edu/~dimitrib/probbook.html)
+  * 🗓 [Course calendar](https://docs.google.com/spreadsheets/d/1AmW5i9hfhRHsJT5VinAyVdSmnN73MGWisNbjJ3jjPQE/edit?usp=sharing).
+  * 🤖 [Discord server](https://discord.gg/AXjmP3gVyS).
+  * 📜 [Anonymous feedback form](https://forms.gle/c3HNjqfjsTCNcpBj6).
   * 💻 Software and simulation:
-    - [Online calculator for complex numbers](https://www.hackmath.net/en/calculator/complex-number)
     - Python -- [Jupyter Lab](https://jupyter.org/try-jupyter/lab/), [Google Colab](https://colab.research.google.com/) (may have issues if you log in Google using your UH email)
-    - Circuit simulator -- [Falstad](https://www.falstad.com/circuit/)
 
 ## About the instructor
 

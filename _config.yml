@@ -2,9 +2,9 @@
 # See https://morea-framework.github.io/docs/instructors/config-yml
 
 # SITE SPECIFIC: The following fields are typically changed for each site
-name: EE 693B Spring 2025
-baseurl: /ee693bspring2025
-morea_theme: sandstone
+name: EE 342 Spring 2025
+baseurl: /ee342spring2025
+morea_theme: journal
 timezone: Pacific/Honolulu
 morea_navbar_items:
   # - Prerequisites
