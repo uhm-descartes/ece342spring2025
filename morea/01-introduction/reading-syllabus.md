@@ -1,7 +1,7 @@
 ---
 morea_id: reading-syllabus
 morea_type: reading
-title: "EE 643 Syllabus"
+title: "EE 342 Syllabus"
 published: True
 morea_summary: "Basic information about the class"
 morea_sort_order: 10
