@@ -1,6 +1,6 @@
 ---
 title: "Time Diversity"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: module-time-diversity
 morea_prerequisites:

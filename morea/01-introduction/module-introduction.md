@@ -14,10 +14,10 @@ morea_experiences:
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/01-introduction/statisticsandprobability.jpg
-morea_start_date: "2024-01-13"
-morea_end_date: "2024-01-15T23:00"
+morea_start_date: "2025-01-13"
+morea_end_date: "2025-01-15T23:00"
 morea_labels:
 morea_sort_order: 1
 ---
 
-Overview of ECE 342 (Probability & Statistics), and some simple initial tasks to get oriented and ready for the course.
+Overview of ECE 342 (Probability & Statistics), and some simple initial tasks to get ready.

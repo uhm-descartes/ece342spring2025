@@ -1,6 +1,6 @@
 ---
 title: "Antenna Diversity"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: module-antenna-diversity
 morea_prerequisites:

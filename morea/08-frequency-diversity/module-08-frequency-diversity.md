@@ -1,6 +1,6 @@
 ---
 title: "Frequency Diversity"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: module-frequency-diversity
 morea_prerequisites:

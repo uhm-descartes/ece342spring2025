@@ -1,6 +1,6 @@
 ---
 title: "Detection in a Fading Channel"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: module-detection-in-fading-channel
 morea_prerequisites:

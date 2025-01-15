@@ -1,8 +1,8 @@
 ---
-title: "Physical Models of Wireless Channels"
+title: "Conditional Probabilities"
 published: true
 morea_coming_soon: false
-morea_id: module-wireless-channel-physical-model
+morea_id: module-conditioning
 morea_prerequisites:
 morea_outcomes:
   - outcome-wireless-channenl-physical-model
@@ -19,11 +19,11 @@ morea_experiences:
 morea_assessments:
   - assessment-03-physical-model
 morea_type: module
-morea_icon_url: /morea/03-wireless-channel-physical-model/03-module-icon-ray-tracing.png
-morea_start_date: "2024-01-10"
-morea_end_date: "2024-01-17"
+morea_icon_url: /morea/03-conditioning/Thomas_Bayes.gif
+morea_start_date: "2025-01-24"
+morea_end_date: "2025-01-31"
 morea_labels:
 morea_sort_order: 3
 ---
 
-Discussion of physical models of wireless channels through some simplified examples, which reveal some key features of wireless channels.
+Starting to get tricky.

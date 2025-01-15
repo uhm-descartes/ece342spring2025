@@ -1,6 +1,6 @@
 ---
 title: "Course Project"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: module-course-project
 morea_prerequisites:

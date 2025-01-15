@@ -1,11 +1,11 @@
 ---
-title: "E01: Introduce yourself"
+title: "Introduce yourself"
 published: true
 morea_id: experience-introduce-yourself
 morea_type: experience
 morea_summary: "Get started with the ECE 342 Discord server"
 morea_sort_order: 10
-morea_start_date: "2024-01-13T23:00"
+morea_start_date: "2025-01-13T23:00"
 morea_labels: "1 extra credit"
 ---
 
