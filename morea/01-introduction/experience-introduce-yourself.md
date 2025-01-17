@@ -1,5 +1,5 @@
 ---
-title: "Introduce yourself"
+title: "Introduce Yourself"
 published: true
 morea_id: experience-introduce-yourself
 morea_type: experience

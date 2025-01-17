@@ -11,11 +11,12 @@ morea_readings:
   - reading-preliminary-set
 morea_experiences:
   - experience-introduce-yourself
+  - experience-set-algebra
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/01-introduction/statisticsandprobability.jpg
 morea_start_date: "2025-01-13"
-morea_end_date: "2025-01-15T23:00"
+morea_end_date: "2025-01-17T23:00"
 morea_labels:
 morea_sort_order: 1
 ---
