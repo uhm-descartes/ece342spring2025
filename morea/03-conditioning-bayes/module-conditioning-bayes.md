@@ -23,4 +23,4 @@ morea_labels:
 morea_sort_order: 3
 ---
 
-Starting to get tricky... and *interest*!
+Starting to get tricky... and *interesting!*
