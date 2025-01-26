@@ -10,7 +10,7 @@ morea_readings:
   - reading-probabilistic-model
   - reading-probability-law
 morea_experiences:
-  # - experience-CHANGE-ME
+  - experience-unequally-likely-outcomes
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
