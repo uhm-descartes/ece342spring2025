@@ -12,7 +12,9 @@ morea_readings:
   - reading-03-bayes-rule
 morea_experiences:
   - experience-03-more-than-two-outcomes
-  # - experience-03-moving-antenna-reflecting-wall
+  - experience-03-jurassic-park
+  - experience-03-sith-lord-detection
+  - experience-03-dark-knight
 morea_assessments:
   # - assessment-03-physical-model
 morea_type: module

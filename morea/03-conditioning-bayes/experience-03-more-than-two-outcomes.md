@@ -3,7 +3,7 @@ title: "More Than Two Outcomes"
 published: true
 morea_id: experience-03-more-than-two-outcomes
 morea_type: experience
-morea_summary: "3 is a charm"
+morea_summary: "Three is a charm"
 morea_sort_order: 31
 morea_start_date: "2025-02-02T23:00"
 morea_labels: "2 extra credits"
