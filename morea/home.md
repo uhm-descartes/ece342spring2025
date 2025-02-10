@@ -15,8 +15,7 @@ ECE 342 is structured as a sequential series of [modules](/ece342spring2025/modu
 
   * [Learning outcomes](/ece342spring2025/outcomes/), describing the major goals for the module.
   * [Readings and other online resources](/ece342spring2025/readings/), providing background material.
-  * [Experiential learning activities](/ece342spring2025/experiences/), providing a structured set of challenges enabling you to acquire mastery of material.
-  * [Assessments](/ece342spring2025/assessments/), which help you determine if you have acquired mastery of the material.
+  * [Experiential learning activities](/ece342spring2025/experiences/), providing a structured set of challenges enabling you to acquire mastery of material (and **extra credits** ✨).
 
 ## Useful Resources
 
