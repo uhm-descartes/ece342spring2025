@@ -1,5 +1,5 @@
 ---
-title: "Physical models of wireless channels"
+title: "Conditional probability and Bayes' rule"
 published: true
 morea_id: outcome-conditioning-bayes
 morea_type: outcome

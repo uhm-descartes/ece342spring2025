@@ -15,7 +15,7 @@ morea_assessments:
 morea_type: module
 morea_icon_url: /morea/04-independence/independence.webp
 morea_start_date: "2025-02-10"
-morea_end_date: "2025-02-10"
+morea_end_date: "2025-02-14"
 morea_labels:
 morea_sort_order: 4
 ---
