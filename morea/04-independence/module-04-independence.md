@@ -9,7 +9,7 @@ morea_outcomes:
 morea_readings:
   - reading-04-independence
 morea_experiences:
-  # - experience-04-baseband-passband-conversion
+  - experience-04-bayesian-network
 morea_assessments:
   # - assessment-04-input-output-model
 morea_type: module
