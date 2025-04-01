@@ -16,7 +16,7 @@ morea_assessments:
 morea_type: module
 morea_icon_url: /morea/05-discrete-random-variables/SiméonDenisPoisson.jpg
 morea_start_date: "2025-02-19"
-morea_end_date: "2025-02-28"
+morea_end_date: "2025-03-07"
 morea_labels:
 morea_sort_order: 5
 ---
